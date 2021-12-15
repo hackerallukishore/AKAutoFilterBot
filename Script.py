@@ -7,22 +7,22 @@ class script(object):
 ⚠️ 𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙 𝙲𝚕𝚒𝚌𝚔 𝙷𝚎𝚕𝚙 𝙱𝚞𝚝𝚝𝚘𝚗 𝙱𝚎𝚕𝚘𝚠
 
 ©MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=https://t.me/Allukishore>𝔸𝕝𝕝𝕦 𝕂𝕚𝕤ꫝ𝕠𝕣𝕖</a>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+    💀HELP_TXT💀= """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    🤓ABOUT_TXT🤓 = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Allukishore>𝔸𝕝𝕝𝕦 𝕂𝕚𝕤ꫝ𝕠𝕣𝕖</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
+    🤫SOURCE_TXT🤫 = """<b>NOTE:</b>
 - AKAutoFilterBot is a open source project. 
 - Source - <a href=https://t.me/Allukishore>LOL!!!</a>
-
+ 
 <b>DEVS:</b>
 - <a href=https://t.me/ALLU_KISHORE_OFFICIAL>𝔸𝕝𝕝𝕦 𝕂𝕚𝕤ꫝ𝕠𝕣𝕖</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    🍿MANUELFILTER_TXT🍿 = """Help: <b>💖Filters💖</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
@@ -36,7 +36,8 @@ class script(object):
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+  BUTTON_TXT= """Help: <b>⚙Buttons⚙</b>
+
 
 - Eva Maria Supports both url and alert inline buttons.
 
